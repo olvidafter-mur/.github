@@ -1,21 +1,11 @@
-# Proyecto MUR 💬📍
+# MUR Project 💬📍
 
-## Descripción
+## Description
 
-MUR es una aplicación de posteos por ubicación, permite a los usuarios publicar mensajes de texto breves que son visualizados en una location de 1km a la redonda. El nombre "MUR" se refiere al murmurar de lo que la gente comenta.
+MUR is a location-based posting application that allows users to publish short text messages visible within a 1km radius. The name "MUR" refers to the murmuring of what people comment on.
 
-## Características
+## Features
 
-- Publicación de mensajes de texto
-- Interfaz de usuario intuitiva
-- Backend robusto desarrollado en Spring Boot orientado a microservicios.
-
-## Instalación
-
-### Requisitos
-
-- Java 21
-- Node.js
-- Angular CLI
-
-
+- Text message posting
+- Intuitive user interface
+- Robust backend developed in Spring Boot oriented towards microservices.
